@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php bloginfo('name'); ?><?php wp_title('|', true); ?></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="author" content="http://www.concept4.com" />
+<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
+<link rel="shortcut icon" href="<?php bloginfo('template_url'); ?>/favicon.ico" />
+<?php wp_head(); ?>
+
+<script src="<?php bloginfo('template_directory'); ?>/JS/slides.min.jquery.js" type="text/javascript"></script>
+<script src="<?php bloginfo('template_directory'); ?>/JS/slides.jquery.js" type="text/javascript"></script>
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/JS/img_swap.js"></script>
+<link rel='stylesheet' type='text/css' media="all and (max-width:1024px)" href='<?php bloginfo('template_directory'); ?>/1024andlower.css' />
+
+</head>
+
+<body onload="MM_preloadImages('../images/client-img/strategic_over.jpg','../images/client-img/website_over.jpg','../images/client-img/print_over.jpg','../images/client-img/mobile_over.jpg','../images/client-img/digital-marketin_over.jpg','../images/client-img/media_over.jpg')">
+
+
+
+
+
+<!--st holder-->
+<div id="allHolder">
+
+
+
+<!--st header Cont-->
+<div id="hdrCnt">
+
+	<!--st h01-->
+    <div id="hdrInner">    	
+        <a href="/"><img class="logo" src="<?php bloginfo('stylesheet_directory'); ?>/images/C4-logo.jpg" width="460" height="40" alt="Concept4" /></a>
+        <img class="tel" src="<?php bloginfo('stylesheet_directory'); ?>/images/tel.jpg" width="277" height="25" alt="Get in touch: 01282 612222" />
+    </div>
+	<!--end h01-->
+
+</div>
+<!--end header Cont-->
+
+
+
+<!--st main Cont-->
+<div id="mainCont">
+
+
+    <!--st outer Cont-->
+    <div id="mainContOuter">
+    
+    
+    	<!--st inner Cont-->
+        <div class="mainContInner">
